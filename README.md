@@ -11,7 +11,7 @@ sudo git clone https://github.com/DarexD/Solution-the-error-libmpv.so.-Flet-in-U
 
 cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu
 
-chmod +x SolutionFlet.sh
+sudo chmod +x SolutionFlet.sh
 
 ./SolutionFlet.sh
 ```
@@ -32,7 +32,7 @@ To solve the problem, run the following line of code in your corresponding termi
 
 `cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu`
 
-`chmod +x SolutionFlet.sh`
+`sudo chmod +x SolutionFlet.sh`
 
 `./SolutionFlet.sh`
 ```
