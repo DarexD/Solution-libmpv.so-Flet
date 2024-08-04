@@ -7,7 +7,7 @@ Para solucionar el problema ejecute la siguiente linea de codigo en su correspon
 ```
 sudo apt install git
 
-sudo git clone https://github.com/DarexD/Solution-the-error-libmpv.so.-Flet-in-Ubuntu.git
+sudo git clone https://github.com/DarexD/Solution-libmpv.so-Flet
 
 cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu
 
@@ -26,15 +26,15 @@ Small Script to solve the problem in Ubuntu when running the Flet application: '
 
 To solve the problem, run the following line of code in your corresponding terminal:
 ```
-`sudo apt install git`
+sudo apt install git
 
-`sudo git clone https://github.com/DarexD/Solution-the-error-libmpv.so.-Flet-in-Ubuntu.git`
+sudo git clone https://github.com/DarexD/Solution-libmpv.so-Flet
 
-`cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu`
+cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu
 
-`sudo chmod +x SolutionFlet.sh`
+sudo chmod +x SolutionFlet.sh
 
-`./SolutionFlet.sh`
+./SolutionFlet.sh
 ```
 
 If you get an error like "The package 'gstreamer1.0-doc' does not have a candidate for installation" don't worry, try your program and report back if it works.
