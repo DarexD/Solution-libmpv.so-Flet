@@ -9,7 +9,7 @@ sudo apt install git
 
 sudo git clone https://github.com/DarexD/Solution-libmpv.so-Flet
 
-cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu
+cd Solution-libmpv.so-Flet
 
 sudo chmod +x SolutionFlet.sh
 
@@ -32,7 +32,7 @@ sudo apt install git
 
 sudo git clone https://github.com/DarexD/Solution-libmpv.so-Flet
 
-cd Solution-the-error-libmpv.so.-Flet-in-Ubuntu
+cd Solution-libmpv.so-Flet
 
 sudo chmod +x SolutionFlet.sh
 
